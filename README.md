@@ -79,8 +79,4 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://github.com/sairam5686/sairam5686/blob/main/snake.yml" alt="Snake animation" />
-
 ###
