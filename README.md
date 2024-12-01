@@ -13,7 +13,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sairam5686&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=sairam5686&locale=en&mode=weekly&theme=chartreuse-dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sairam5686&locale=en&hide_title=false&layout=compact&card_width=320&theme=chartreuse-dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
