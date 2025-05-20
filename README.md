@@ -99,6 +99,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sairam5686&locale=en&hide_title=false&layout=compact&card_width=320&theme=chartreuse-dark&hide_border=true" alt="languages graph" />
 </p>
 
-![](https://leetcard.jacoblin.cool/J_R_Sairam?site=cn)
+![](https://leetcard.jacoblin.cool/J_R_Sairam?site)
 
 <h3 align="center">💬 Let's connect and build something amazing together! 🚀</h3>
